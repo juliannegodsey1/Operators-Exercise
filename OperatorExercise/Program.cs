@@ -19,7 +19,28 @@
             Console.WriteLine($"The product of {a} and {b} is {product}");
             Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}");
 
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("-----");
+            Console.WriteLine("");
+            Console.WriteLine("");
+
+            Console.WriteLine("What is the radius of your circle?");
+            var radius = double.Parse(Console.ReadLine());
+            var area = AreaOfCircle(radius);
+            Console.WriteLine("");
+            Console.WriteLine($"The area of your circle is {area}");
+
 
         }
+
+        public static double AreaOfCircle(double radius)
+        {
+            
+           return Math.PI * radius * radius;
+
+        }
+
+        
     }
 }
