@@ -1,0 +1,14 @@
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\bin\Debug\net6.0\OperatorExercise.exe
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\bin\Debug\net6.0\OperatorExercise.deps.json
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\bin\Debug\net6.0\OperatorExercise.runtimeconfig.json
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\bin\Debug\net6.0\OperatorExercise.dll
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\bin\Debug\net6.0\OperatorExercise.pdb
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\obj\Debug\net6.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\obj\Debug\net6.0\OperatorExercise.dll
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\obj\Debug\net6.0\refint\OperatorExercise.dll
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\obj\Debug\net6.0\OperatorExercise.pdb
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\obj\Debug\net6.0\OperatorExercise.genruntimeconfig.cache
+C:\Users\julia\Desktop\repos3\Operators-Exercise-REDO\OperatorExercise\obj\Debug\net6.0\ref\OperatorExercise.dll
